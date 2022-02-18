@@ -1,0 +1,13 @@
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.exe
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.deps.json
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.runtimeconfig.json
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.runtimeconfig.dev.json
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.dll
+F:\Menu_Selection\Menu_Selection\bin\Debug\netcoreapp3.1\Menu_Selection.pdb
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.csprojAssemblyReference.cache
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.AssemblyInfoInputs.cache
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.AssemblyInfo.cs
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.csproj.CoreCompileInputs.cache
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.dll
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.pdb
+F:\Menu_Selection\Menu_Selection\obj\Debug\netcoreapp3.1\Menu_Selection.genruntimeconfig.cache
