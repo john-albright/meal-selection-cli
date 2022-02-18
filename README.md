@@ -1,0 +1,8 @@
+This command line program was created to fulfill a set of instructions titled "Evive_Entry_Software_Engineer_Test_2022" in pdf format found in the folder "other." The program prompts the user to enter in the name of a meal (Breakfast, Lunch, or Dinner) followed by a list of the dishes ordered (1: Main, 2: Side, 3: Drink, 4: Dessert). The numbers must be separated by commas yet the entire input must not end with a comma. Some sample input are as follows:
+- Breakfast 1,2
+- Lunch
+- Dinner 4,3,2,1
+
+The input it processed by a regular expression and then processed for the order, accumulating the number of main dishes, side dishes, drinks, and desserts ordered in a dictionary. The dictionary is then used to instantiate an object of class Breakfast, Lunch, or Dinner. These classes all extend the standard class Meal, which implements all the methods and fields of the Interface IMeal. There are slight differences in what can be ordered or not ordered at each meal. For example, only dessert (4) can be ordered at dinner, and multiple sides (2) can be ordered at lunch.
+
+The program to be run (Program.cs) is found in the Menu_Selection folder. A set of unit tests in a file called UnitTests.cs can be found in the Menu_Selection.Tests folder. XUnit is the dependency required to run these tests, and it's not included in the Repository. The necessary files can easily be installed in Microsoft Visual Studio. Two of the functions of the Program.cs file, ValidateInput() and ParseUserString(), are tested. A snapshot of the summary of the results of these tests can be found in the file titled Unit_Tests in the folder "other." 
